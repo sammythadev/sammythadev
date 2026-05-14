@@ -1,42 +1,56 @@
-# Hi, I’m Kasper Samuel
+# 👋 Hi, I’m Kasper Samuel
 
-Backend Developer focused on building scalable systems, reliable APIs, and cloud-native infrastructure.
+## Full Stack Developer | Backend & Cloud Engineer
 
-## About
+I build modern, scalable web products — from responsive frontend experiences to reliable backend systems and cloud-native deployments.
 
-- Backend-focused engineer with strong interest in infrastructure and distributed systems
-- Fluent in **Java Spring Framework**, **NestJS**, and **TypeScript**
-- Comfortable with **containerization**, **system design**, **Kubernetes**, and **cloud systems**
-- Currently exploring **SRE**, **fault-tolerant computing**, **Go**, and **DevOps**
-- Also interested in **systems internals**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Core Stack
+---
 
-### Backend
-- Java (Spring Framework)
-- Node.js (NestJS)
-- TypeScript
-- REST APIs
+## 🛠️ Tech Stack
 
-### Infrastructure & Cloud
-- Docker (containerization)
-- Kubernetes
-- Cloud systems architecture
-- CI/CD workflows
+### ⚙️ Frontend
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js, Vue.js
+- Tailwind CSS, Sass, CSS Modules
+- Redux, Context API, Vuex
 
-### Data & Platform
-- PostgreSQL
-- MySQL
-- MongoDB
+### 🧩 Backend
+- Java (Spring Framework), Node.js (NestJS, Express)
+- REST APIs, GraphQL
+- JWT, OAuth 2.0
 
-## Current Focus
+### ☁️ Cloud, DevOps & Platform
+- Docker, Kubernetes
+- AWS, Google Cloud, Vercel, Netlify
+- GitHub Actions, Jenkins, Terraform
 
-- Designing backend services for reliability and maintainability
-- Improving observability and operational readiness
-- Applying fault-tolerance patterns in distributed systems
-- Deepening production-grade cloud and Kubernetes practices
+### 🗄️ Databases
+- PostgreSQL, MySQL, SQLite, MongoDB
+- Prisma, Sequelize, Mongoose
 
-## Connect
+---
+
+## 🚀 Currently Exploring
+
+- Microservices architecture
+- Serverless functions
+- Advanced GraphQL patterns
+- Kubernetes orchestration
+- WebAssembly (WASM)
+- Blockchain development & Web3.js
+- Frontend and backend security best practices
+
+---
+
+## 📫 Connect
 
 - X/Twitter: [@real_kazper](https://twitter.com/real_kazper)
 - Email: samuelkasper142@gmail.com
@@ -44,4 +58,4 @@ Backend Developer focused on building scalable systems, reliable APIs, and cloud
 
 ---
 
-Open to collaborating on backend, platform, and cloud engineering projects.
+🌱 Open to collaborating on impactful full stack, backend, and cloud engineering projects.
