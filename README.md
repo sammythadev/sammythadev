@@ -1,67 +1,47 @@
-# 👋 Hi, I'm Kasper Samuel
+# Hi, I’m Kasper Samuel
 
-## 💻 Full Stack Web Developer | Cloud Enthusiast | Open Source Contributor
+Backend Developer focused on building scalable systems, reliable APIs, and cloud-native infrastructure.
 
-I'm a passionate Full Stack Developer with a deep interest in crafting modern, scalable, and high-performance web applications. I specialize in building everything from clean and responsive UIs to robust backend systems, and deploying them efficiently in the cloud.
+## About
 
----
+- Backend-focused engineer with strong interest in infrastructure and distributed systems
+- Fluent in **Java Spring Framework**, **NestJS**, and **TypeScript**
+- Comfortable with **containerization**, **system design**, **Kubernetes**, and **cloud systems**
+- Currently exploring **SRE**, **fault-tolerant computing**, **Go**, and **DevOps**
+- Also interested in **systems internals**
 
-## 🛠️ Tech Stack
+## Core Stack
 
-### ⚙️ Frontend
-- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- Frameworks/Libraries: React.js, Next.js, Vue.js
-- Styling: Tailwind CSS, Sass, CSS Modules
-- State Management: Redux, Context API, Vuex
+### Backend
+- Java (Spring Framework)
+- Node.js (NestJS)
+- TypeScript
+- REST APIs
 
-### 🧩 Backend
-- Runtime: Node.js
-- Frameworks: Express.js, NestJS
-- APIs: REST, GraphQL
-- Authentication: JWT, OAuth 2.0
+### Infrastructure & Cloud
+- Docker (containerization)
+- Kubernetes
+- Cloud systems architecture
+- CI/CD workflows
 
-### 🗄️ Databases
-- SQL: PostgreSQL, MySQL, SQLite
-- NoSQL: MongoDB
-- ORM/ODM: Prisma, Sequelize, Mongoose
+### Data & Platform
+- PostgreSQL
+- MySQL
+- MongoDB
 
-### ☁️ DevOps & Cloud
-- Cloud Providers: AWS, Google Cloud, Vercel, Netlify
-- Containerization: Docker
-- CI/CD: GitHub Actions, Jenkins
-- IaC: Terraform
+## Current Focus
 
-### 🧰 Other Tools
-- Version Control: Git & GitHub
-- Testing: Jest, Cypress
-- Package Managers: npm, pnpm
+- Designing backend services for reliability and maintainability
+- Improving observability and operational readiness
+- Applying fault-tolerance patterns in distributed systems
+- Deepening production-grade cloud and Kubernetes practices
 
----
+## Connect
 
-## 🚀 Currently Exploring
-
-- Microservices Architecture  
-- Serverless Functions  
-- Kubernetes (K8s) Orchestration  
-- Advanced GraphQL Patterns  
-- WebAssembly (WASM)  
-- Blockchain Development & Web3.js  
-- Frontend & Backend Security Best Practices
+- X/Twitter: [@real_kazper](https://twitter.com/real_kazper)
+- Email: samuelkasper142@gmail.com
+- Portfolio: [real-kazper.vercel.app](https://real-kazper.vercel.app)
 
 ---
 
-## 📫 Let's Connect
-
-- 🐦 Twitter: [@real_kazper](https://twitter.com/real_kazper)
-- 📧 Email: samuelkasper142@gmail.com
-- 🌐 Portfolio: [real-kazper.vercel.app](https://real-kazper.vercel.app)
-
----
-
-## 🌱 Open to Collaborate
-
-I love working on exciting, impactful projects and contributing to the open-source community. If you're building something awesome — let's connect and create magic!
-
----
-
-⭐️ *From Kasper Samuel – Let’s build something amazing together.
+Open to collaborating on backend, platform, and cloud engineering projects.
